@@ -24,7 +24,7 @@ dependencies:
     # path: ../solana_wallet_adapter_platform_interface
   solana_web3:
     git:
-      url: https://github.com/aakarshitmegamind/solana-web3.git
+      url: https://github.com/neokree/solana-web3.git
       ref: master
 
 dev_dependencies:
